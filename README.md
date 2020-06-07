@@ -1,6 +1,8 @@
 # Career Ninja BackEnd Assignment
 npm install
+
 node server.js
+port 3000
 Created api 
 
 router.route("/list").get(battleController.allBattlePlace);
