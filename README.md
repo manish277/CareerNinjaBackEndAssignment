@@ -1,4 +1,4 @@
-# CareerNinjaBackEndAssignment
+# Career Ninja BackEnd Assignment
 npm install
 node server.js
 Created api 
